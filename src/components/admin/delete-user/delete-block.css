@@ -1,0 +1,14 @@
+.delete-block {
+  display: flex;
+  /* flex-direction: column; */
+}
+.userlist {
+  border-right: solid 2px gray;
+}
+.listDelete {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 5px 0;
+  border-bottom: solid 1px rgb(83, 83, 83);
+  background-color: aliceblue;
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Bellota&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap&subset=cyrillic');
+@import url('https://api.tiles.mapbox.com/mapbox-gl-js/v1.10.0/mapbox-gl.css');
+@import url('https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.0.2/mapbox-gl-directions.css');
+
+a {
+  text-decoration: none;
+  color: black;
+}
+li {
+  list-style-type: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik', sans-serif;
+}

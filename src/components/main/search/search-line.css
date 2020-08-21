@@ -1,0 +1,33 @@
+.search {
+  font-size: 24px;
+  margin-top: 30px;
+}
+.search p {
+  margin: 0 0 5px 10%;
+}
+.all-search {
+  margin-left: 10%;
+}
+.search-line {
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+}
+.search-input {
+  width: 80%;
+  height: 50px;
+  font: 400 24px black;
+
+  border: solid 3px rgb(207, 207, 207);
+  border-radius: 5px;
+}
+.btn {
+  height: 50px;
+  width: 70px;
+  margin: 0 0 0 10px;
+
+  border-radius: 5px;
+
+  padding: 0;
+}

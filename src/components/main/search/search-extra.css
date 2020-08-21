@@ -1,0 +1,27 @@
+.list-parameters {
+  display: flex;
+  flex-wrap: wrap;
+}
+.li-list-parameters {
+  display: flex;
+  margin: 10px;
+}
+.item-list {
+  padding: 8px;
+
+  border-radius: 5px;
+}
+.btn-parameters {
+  padding: 8px 15px;
+
+  border-radius: 5px;
+  font-size: 1.5em;
+
+  margin-left: 45%;
+  margin-bottom: 10px;
+}
+.extra-search-param {
+  background-color: rgb(214, 214, 214);
+  border-radius: 15px;
+  margin: 10px 10%;
+}

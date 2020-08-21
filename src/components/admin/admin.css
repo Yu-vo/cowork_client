@@ -1,0 +1,12 @@
+.menu-admin {
+  display: flex;
+  margin: 20px 0;
+  flex-wrap: wrap;
+
+  justify-content: center;
+}
+.admin-add,
+.admin-delete,
+.admin-user-delete {
+  margin: 0 20px;
+}

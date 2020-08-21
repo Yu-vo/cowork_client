@@ -1,0 +1,33 @@
+.main-search {
+  margin: 50px 0;
+}
+.type-place {
+  display: flex;
+  justify-content: space-around;
+
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+
+  /* margin: 50px; */
+}
+.btn-active {
+  margin-left: 9%;
+  font-size: 24px;
+
+  cursor: pointer;
+}
+.search-text {
+  margin: 0 10px 50px 10px;
+  display: flex;
+  min-height: 170px;
+
+  background: url(../../../assets/header.svg);
+  background-repeat: no-repeat;
+  background-size: 2500px;
+
+  font-size: 3rem;
+  /* font: bolder; */
+  justify-content: center;
+  align-items: center;
+}
